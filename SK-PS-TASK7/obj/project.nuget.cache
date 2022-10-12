@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuRdxu+qtOA7RJq8X67CuoqI+dLZ5tZlGlRld2aGlCPezse1bE2Gzg7IIbtNRkIdMF5Ue55wum9DdV0IopdxSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\SK-PS-TASK7\\SK-PS-TASK7\\SK-PS-TASK7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
